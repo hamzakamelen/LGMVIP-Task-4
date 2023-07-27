@@ -1,0 +1,40 @@
+.calculator{
+    justify-content: center;
+    align-items: center;
+    margin-left: 500px;
+    display: block;
+}
+.btn{
+    width: 100px;
+    height: 80px;
+    justify-content: center;
+    color: antiquewhite;
+    background-color: black;
+    border-radius: 20px;
+    font-size: 30px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder;   
+}
+.btnC{
+    width: 90px;
+    height: 100px;
+    justify-content: center;
+    color: antiquewhite;
+    background-color: black;
+    border-radius: 20px;
+    font-size: 30px; 
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bolder; 
+}
+.buttonss{
+    width: 800px;
+}
+
+.inp_screen{
+    font-size: 40px;
+    font-weight: bold;
+    width: 300px;
+    height: 90px;
+    justify-content: center;
+    background-color: whitesmoke;
+}
